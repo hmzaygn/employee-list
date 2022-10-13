@@ -1,0 +1,29 @@
+.card-div {
+    /* border: 2px solid blue; */
+    display: flex;
+    padding: .5rem;
+    align-items: center;
+}
+
+.img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.desc-div {
+    margin-top: 10px;
+    text-align: start;
+    margin-left: 1rem;
+    line-height: .5rem;
+}
+
+.emp-name {
+    color: black;
+    font-weight: 600;
+}
+
+.par-light {
+    color: gray;
+}
